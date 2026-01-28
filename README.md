@@ -1,0 +1,1 @@
+# technical_specification_hitalent
